@@ -15,3 +15,9 @@ tqdm
 yapf
 lpips
 gdown # supports downloading the large file from Google Drive
+
+
+# by @Xiongzile
+fastapi
+python-multipart
+uvicorn
